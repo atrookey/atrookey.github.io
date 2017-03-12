@@ -1,26 +1,40 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
+[![Code Climate](https://codeclimate.com/github/oliverfarrell/quiz.js/badges/gpa.svg)](https://codeclimate.com/github/oliverfarrell/quiz.js)
 
-[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
+Quiz.js is a configurable vanilla Javascript multi-choice quiz.
 
-## Getting Started
+## Usage
+```
+Quiz.init({
+  json: '/questions.json',
+  numberOfQuestions: 10,
+  questionsTemplate: '/question.html',
+  resultsTemplate: '/results.html',
+  wrongAnswersTemplate: '/wrong-answers.html',
+  container: 'quiz'
+});
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+```
 
-## Bugs and Issues
+## Options
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
+### json
+The location of the JSON file that contains the questions. See `/questions.json` inside this repo for the necessary example format.
 
-## Creator
+### numberOfQuestions
+The number of questions that should be displayed on the front-end.
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+### questionsTemplate
+The HTML template that should be used to display the questions.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+### resultsTemplate
+The HTML template that should be used to display the results.
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+### wrongAnswersTemplate
+The HTML template that should be used to display the questions that were incorrect.
 
-## Copyright and License
+### container
+The ID of the element that should be used as the quiz container.
 
-Copyright 2014 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
+## TODO
+* Put a check in place against the requested number of questions and the number of questions available in the JSON file
+* Store users incorrect answer and display on request
