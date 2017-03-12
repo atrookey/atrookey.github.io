@@ -2,6 +2,10 @@
 
 Quiz.js is a configurable vanilla Javascript multi-choice quiz.
 
+## Creator
+Oliver Farrell
+https://github.com/oliverfarrell/multi-choice-quiz
+
 ## Usage
 ```
 Quiz.init({
