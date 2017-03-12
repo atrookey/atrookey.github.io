@@ -115,8 +115,8 @@ var Quiz = (function () {
 
     // add the answers
     for(var i = 0; i < answers.length; i++) {
-      var el = document.createElement('li'),
-          text = document.createTextNode(answers[i].answer);
+      var el = document.createElement('option');
+      var text = document.createTextNode(answers[i].answer);
 
       el.appendChild(text);
       el.dataset.id = [i];
@@ -134,8 +134,9 @@ var Quiz = (function () {
     var next = document.getElementById('next');
     next.addEventListener('click', function() {
 
-      var quiz = document.getElementById('quiz'),
-          chosenAnswer = document.querySelector('[data-state="active"]');
+      var quiz = document.getElementById('quiz');
+      var answers = document.getElementById('answers');
+      var chosenAnswer = answers.options[answers.selectedIndex];
 
       if(current.innerHTML == settings.numberOfQuestions.toString()) {
           _checkAnswer(question, chosenAnswer);
