@@ -1,170 +1,346 @@
 
-1. If a patient has the following symptoms: aural fullness, tinnitus, fluctuating sensorineural heaing loss and intermittent vertigo, the MOST likely cause is:
-A. fluid behind the typmpanic membrane B. barotrauma
-C. cholesteatoma
-D. Meniere's disease
-2. Upon doing otoscopy, a perforation in the lower left quadrant of the right eardrum is observed. In the referral to the doctor, which of the following is the BEST way to describe the findings?
-A. Anterior lower perforation
-B. Anteriorinferiorperforation
-C. Posterior inferior perforation
-D. Posterior lower perforation
-3. A 67-year old patient/client has been referred by his physician for hearing instruments. He reports recent significant changes in hearing and is upset about not hearing his family as well as he thinks he should.
+1
+If a patient has the following symptoms: aural fullness, tinnitus, fluctuating sensorineural heaing loss and intermittent vertigo, the MOST likely cause is:
+A
+
+fluid behind the typmpanic membrane
+B
+
+barotrauma
+C.
+cholesteatoma
+D
+
+Meniere's disease
+2
+Upon doing otoscopy, a perforation in the lower left quadrant of the right eardrum is observed
+In the referral to the doctor, which of the following is the BEST way to describe the findings?
+A
+Anterior lower perforation
+B
+Anteriorinferiorperforation
+C
+Posterior inferior perforation
+D
+Posterior lower perforation
+3
+A 67-year old patient/client has been referred by his physician for hearing instruments
+He reports recent significant changes in hearing and is upset about not hearing his family as well as he thinks he should
 What case history information would be MOST pertinent to this patient's concerns?
-A. history of noise exposure
-B. family history of hearing loss
-C. balanceproblems
-D. medication use
-© 2014 NBC-HIS
-31
-           4. Which of the following would be the MOST likely cause of this audiometric configuration?
+A
+
+history of noise exposure
+B
+
+family history of hearing loss
+C
+
+balance problems
+D
+
+medication use
+4
+
+Which of the following would be the MOST likely cause of this audiometric configuration?
 PURE TONE AUDIOGRAM
  © 2014 NBC-HIS
 32
-A. acoustic trauma due to gunfire
-B. noise exposure in industrial setting
-C. barotrauma
-D. acoustic neuroma
-5. Properly administered speech discrimination testing requires:
-A. white noise masking
-B. an evenly monitored presentation
-C. a taped presentation
-D. the use of the NU-6 list
+A
+acoustic trauma due to gunfire
+B
+noise exposure in industrial setting
+C
+barotrauma
+D
+acoustic neuroma
+5
+Properly administered speech discrimination testing requires:
+A
+white noise masking
+B
+an evenly monitored presentation
+C
+a taped presentation
+D
+the use of the NU-6 list
 
-           5. Properly administered speech discrimination testing requires:
-A. white noise masking
-B. an evenly monitored presentation
-C. a taped presentation
-D. the use of the NU-6 list
-6. A patient with a PTA of 60 dB, binaurally accompanied by a conductive component of 35 dB would be LEAST likely to exhibit which of the following?
-A. good speech discrimination
-B. MCL above 65 dB HTL
-C. the patient will speak loudly when unaided
-D. good tolerance to loud sounds
-7. The primary function of the middle ear is to match the impedance of the outer ear to
+           5
+           Properly administered speech discrimination testing requires:
+A
+white noise masking
+B
+an evenly monitored presentation
+C
+a taped presentation
+D
+the use of the NU-6 list
+6
+A patient with a PTA of 60 dB, binaurally accompanied by a conductive component of 35 dB would be LEAST likely to exhibit which of the following?
+A
+good speech discrimination
+B
+MCL above 65 dB HTL
+C
+the patient will speak loudly when unaided
+D
+good tolerance to loud sounds
+7
+The primary function of the middle ear is to match the impedance of the outer ear to
 the inner ear by:
-A. increasing the pressure at the stapes footplate
-B. decreasing the pressure at the oval window
-C. equalizing the pressure at the stapes footplate
-D. increase the pressure on the long process of the malleous
-8. The articulation index scale can be used for:
-A. an effective counseling tool
-B. measuringrecruitment
-C. estimating unaided and aided word recognition based on pure tone audiometry
-D. measuring functional gain for a hearing instrument set at MCL
-9. Which of the following frequencies would be MOST affected by a head cold?
-A. 250, 500
-B. 1000, 2000
-C. 4,000, 6000
-D. all will be affected equally
-10. The patient/client has a prolapsed canal. How BEST should the hearing health professional proceed with the hearing evaluation?
-A. request physician's recommendation
-B. utilize sound field testing
-C. proceed with TDH39 headphones
-D. proceed with insert headphones
+A
+increasing the pressure at the stapes footplate
+B
+decreasing the pressure at the oval window
+C
+equalizing the pressure at the stapes footplate
+D
+increase the pressure on the long process of the malleous
+8
+The articulation index scale can be used for:
+A
+an effective counseling tool
+B
+measuringrecruitment
+C
+estimating unaided and aided word recognition based on pure tone audiometry
+D
+measuring functional gain for a hearing instrument set at MCL
+9
+Which of the following frequencies would be MOST affected by a head cold?
+A
+250, 500
+B
+1000, 2000
+C
+4,000, 6000
+D
+all will be affected equally
+10
+The patient/client has a prolapsed canal
+How BEST should the hearing health professional proceed with the hearing evaluation?
+A
+request physician's recommendation
+B
+utilize sound field testing
+C
+proceed with TDH39 headphones
+D
+proceed with insert headphones
 © 2014 NBC-HIS
 33
 
-           11he patient/client has a prolapsed canal. How BEST should the hearing health professional proceed with the hearing evaluation?
-E. request physician's recommendation
-F. utilize sound field testing
-G. proceed with TDH39 headphones H. proceed with insert headphones
-12. Which of the following tests would best predict the signal-to-noise ratio necessary for a hearing impaired person to understand speech normally in noise?
-A. Quick SIN B. SRT
-C. OAE
-D. APHAB
-13. Smaller ID (inside diameter) tubing will:
-A. move peak to lower frequencies
-B. increaseeffectivegain
-C. increase height of original peak
-D. increase low frequency
-14. One hearing instrument uses a size 10 battery and has a 0.25 mA current drain. Another hearing instrument uses a size 13 battery and has a 1.8 mA current drain. Which of the following statements is TRUE?
-A. the size 10 battery will last longer
-B. the size 13 battery will last longer
-C. both batteries should last the same length of time
-D. unable to determine which will last longer
-15. A disadvantage of WDRC and DSP processing is patient complaints of hearing noises
-where there are no sounds. Which of the following is used to correct this problem?
-A. input compression
-B. outputcompression
-C. multiple microphones
-D. expansion
-16. The articulation index puts the greatest value to speech intelligibility at which frequency?
-A. 800 Hz
-B. 1500 Hz
-C. 2000 Hz
-D. 4000 Hz
+           11he patient/client has a prolapsed canal
+           How BEST should the hearing health professional proceed with the hearing evaluation?
+E
+request physician's recommendation
+F
+utilize sound field testing
+G
+proceed with TDH39 headphones H
+proceed with insert headphones
+12
+Which of the following tests would best predict the signal-to-noise ratio necessary for a hearing impaired person to understand speech normally in noise?
+A
+Quick SIN B
+SRT
+C
+OAE
+D
+APHAB
+13
+Smaller ID (inside diameter) tubing will:
+A
+move peak to lower frequencies
+B
+increaseeffectivegain
+C
+increase height of original peak
+D
+increase low frequency
+14
+One hearing instrument uses a size 10 battery and has a 0.25 mA current drain
+Another hearing instrument uses a size 13 battery and has a 1.8 mA current drain
+Which of the following statements is TRUE?
+A
+the size 10 battery will last longer
+B
+the size 13 battery will last longer
+C
+both batteries should last the same length of time
+D
+unable to determine which will last longer
+15
+A disadvantage of WDRC and DSP processing is patient complaints of hearing noises
+where there are no sounds
+Which of the following is used to correct this problem?
+A
+input compression
+B
+outputcompression
+C
+multiple microphones
+D
+expansion
+16
+The articulation index puts the greatest value to speech intelligibility at which frequency?
+A
+800 Hz
+B
+1500 Hz
+C
+2000 Hz
+D
+4000 Hz
 © 2014 NBC-HIS
 34
 
-           17. What would be the BEST way to prevent an intermittency in the hearing instrument from showing up in the delivery process?
-A. 2 cc couplet N.A.L. target matching
-B. real ear testing
-C. biological check of the instrument
-D. A.N.S.I. test of the instruments
-18. Which condition of the human ear has NO effect on real ear-probe tube measurements?
-A. length of canal
-B. stiffness of T.M.
-C. physical shape
-D. diameter of canal
-19. The typical difference between real ear insertion gain and 2 cc coupler response is:
-A. REIG has more gain above 3000 Hz
-B. REIG is less due to insertion loss
-C. REIG will have less high frequency response with C.I.C.'s
-D. REIG has less gain at 500 Hz
-20. The function of an acoustic coupler is:
-A. noise reduction
-B. retention and sealing
-C. reducing insertion loss
-D. acoustic transparency
-21. Which of the following procedures would MOST likely be associated with fitting problems?
-A. Stapedectomy B. Fistula repair C. Myringotomy D. Mastoidectomy
-22. When considering different digital hearing instruments, open platform technology is generally considered:
-A. more complicated to program B. softwaredriven
-C. hardwarebased
-D. less flexible for programming
+           17
+           What would be the BEST way to prevent an intermittency in the hearing instrument from showing up in the delivery process?
+A
+2 cc couplet N.A.L
+target matching
+B
+real ear testing
+C
+biological check of the instrument
+D
+A.N.S.I
+test of the instruments
+18
+Which condition of the human ear has NO effect on real ear-probe tube measurements?
+A
+length of canal
+B
+stiffness of T.M.
+C
+physical shape
+D
+diameter of canal
+19
+The typical difference between real ear insertion gain and 2 cc coupler response is:
+A
+REIG has more gain above 3000 Hz
+B
+REIG is less due to insertion loss
+C
+REIG will have less high frequency response with C.I.C.'s
+D
+REIG has less gain at 500 Hz
+20
+The function of an acoustic coupler is:
+A
+noise reduction
+B
+retention and sealing
+C
+reducing insertion loss
+D
+acoustic transparency
+21
+Which of the following procedures would MOST likely be associated with fitting problems?
+A
+Stapedectomy B
+Fistula repair C
+Myringotomy D
+Mastoidectomy
+22
+When considering different digital hearing instruments, open platform technology is generally considered:
+A
+more complicated to program B
+softwaredriven
+C
+hardwarebased
+D
+less flexible for programming
 © 2014 NBC-HIS
 35
 
-           23. When troubleshooting a hearing instrument, you discover the electrical signal cannot be converted into acoustical energy. Which component is MOST likely defective?
-A. microphone B. amplifier
-C. receiver
-D. power source
-24. In troubleshooting a high-end digital ITC hearing instrument, it is discovered that there is no gain. An electrical noise and hissing can be heard when examining the hearing instrument. What is MOST likely wrong with this hearing instrument?
-A. receiver is not functioning
-B. vent is blocked
-C. microphone is not functioning
-D. receiver is plugged with wax
-25. A C.I.C. hearing instrument that has a lot of circuit noise but very little amplification
+           23
+           When troubleshooting a hearing instrument, you discover the electrical signal cannot be converted into acoustical energy
+           Which component is MOST likely defective?
+A
+microphone B
+amplifier
+C
+receiver
+D
+power source
+24
+In troubleshooting a high-end digital ITC hearing instrument, it is discovered that there is no gain
+An electrical noise and hissing can be heard when examining the hearing instrument
+What is MOST likely wrong with this hearing instrument?
+A
+receiver is not functioning
+B
+vent is blocked
+C
+microphone is not functioning
+D
+receiver is plugged with wax
+25
+A C.I.C
+hearing instrument that has a lot of circuit noise but very little amplification
 would MOST likely have which of the following?
-A. plugged microphone
-B. plugged receiver
-C. faulty gain control
-D. not enough gain
-26. An earmold problem that might contribute to feedback or whistling is: (choose ALL that apply)
-A. a loose mold
-B. hardened tubing
-C. a hole in the tubing
-D. thick wall instead of thin wall tubing
-27. What BEST describes the effect on the patient if you continue to lower a hearing instrument's kneepoint and increase the compression ratio? Choose ALL that apply.
-A. a lot of gain for soft sounds
-B. very few speech cues in a crowded party
-C. little or no gain for moderately loud sounds
-D. too much amplification in a crowded party
+A
+plugged microphone
+B
+plugged receiver
+C
+faulty gain control
+D
+not enough gain
+26
+An earmold problem that might contribute to feedback or whistling is: (choose ALL that apply)
+A
+a loose mold
+B
+hardened tubing
+C
+a hole in the tubing
+D
+thick wall instead of thin wall tubing
+27
+What BEST describes the effect on the patient if you continue to lower a hearing instrument's kneepoint and increase the compression ratio? Choose ALL that apply.
+A
+a lot of gain for soft sounds
+B
+very few speech cues in a crowded party
+C
+little or no gain for moderately loud sounds
+D
+too much amplification in a crowded party
 © 2014 NBC-HIS
 36
 
-28. In counseling a patient about the use and care of a hearing instrument, the patient should be told that the MOST common cause of hearing instrument failure is:
-A. wax in the ear canal
-B. moisture in the amplifier C. weak or dead battery
-D. patient misunderstanding
-29. When discussing benefits of multi-channel digital hearing instruments which of the following does NOT apply?
-A. Increased capacity for aid to change with hearing changes
-B. Increased hearing benefit in noise
-C. Exact fit to the patient's hearing loss
-D. More "natural" sound reproduction
-30. A patient comes in for his follow-up visit wearing automatic multi-memory digital hearing instruments and is not very happy because the patient is confused by too many options. The next step should be to: Choose ALL that apply
-A. disable user controlled options
-B. change his instrument to a analog programmable hearing instrument
-C. give patient another instruction booklet
-D. re-counsel patient on the use of his hearing instrument
-Note: Audiograms, tympanograms, live speech mapping print outs, ANSI performance sheets or similar charts may also be present in some questions. It is critical that you read the entire question to be sure what is being asked before you answer.
+28
+In counseling a patient about the use and care of a hearing instrument, the patient should be told that the MOST common cause of hearing instrument failure is:
+A
+wax in the ear canal
+B
+moisture in the amplifier C
+weak or dead battery
+D
+patient misunderstanding
+29
+When discussing benefits of multi-channel digital hearing instruments which of the following does NOT apply?
+A
+Increased capacity for aid to change with hearing changes
+B
+Increased hearing benefit in noise
+C
+Exact fit to the patient's hearing loss
+D
+More "natural" sound reproduction
+30
+A patient comes in for his follow-up visit wearing automatic multi-memory digital hearing instruments and is not very happy because the patient is confused by too many options
+The next step should be to: Choose ALL that apply
+A
+disable user controlled options
+B
+change his instrument to a analog programmable hearing instrument
+C
+give patient another instruction booklet
+D
+re-counsel patient on the use of his hearing instrument
+Note: Audiograms, tympanograms, live speech mapping print outs, ANSI performance sheets or similar charts may also be present in some questions
+It is critical that you read the entire question to be sure what is being asked before you answer.
