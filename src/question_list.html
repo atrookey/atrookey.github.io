@@ -7,11 +7,11 @@
 <!-- Optional theme -->
 <link rel="stylesheet" href="sticky-footer.css">
 
-<div class="container">
-  <div class="row" ng-repeat="question in $ctrl.questions">
+<div class="container questions">
+  <div class="row" *ngFor="let question of questions">
     <div class="col-md-12">
       <p>{{question.question}}</p>
-      <div class="radio" ng-repeat="answer in question.answers">
+      <div class="radio" *ngFor="let answer of question.answers">
         <label><input type="radio" value="{{answer._id}}" name="question {{question._id}}">{{answer.answer}}</label>
       </div>
     </div>
