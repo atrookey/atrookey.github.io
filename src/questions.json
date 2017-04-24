@@ -20,7 +20,8 @@
         "answer": "Meniere's disease"
       }
     ],
-    "correct": 2
+    "correct": 2,
+    "value" : false
   },
   {
     "_id": 1,
@@ -43,6 +44,7 @@
         "answer": "Posterior lower perforation"
       }
     ],
-    "correct": 1
+    "correct": 1,
+    "value" : false
   }
 ]}

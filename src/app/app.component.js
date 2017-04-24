@@ -44,10 +44,26 @@ var AppComponent = (function () {
     function AppComponent(questionsService) {
         this.questionsService = questionsService;
         this.getHeroes();
+        this.submitted = false;
     }
     AppComponent.prototype.getHeroes = function () {
         var _this = this;
         this.questionsService.getQuestions().then(function (questions) { return _this.questions = questions; });
+    };
+    AppComponent.prototype.shuffle = function () {
+        $("input[type='radio']").each(function () {
+            $(this).prop("checked", false);
+        });
+        this.questions.sort(function () {
+            return .5 - Math.random();
+        });
+        this.submitted = false;
+    };
+    AppComponent.prototype.onSelect = function (answer, question) {
+        question.value = (answer == question.correct);
+    };
+    AppComponent.prototype.submit = function () {
+        this.submitted = true;
     };
     return AppComponent;
 }());
