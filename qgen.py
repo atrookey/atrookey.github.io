@@ -11,6 +11,7 @@ def create_question(question, answers, correct):
     question_dict['question'] = question
     question_dict['answers'] = []
     question_dict['correct'] = ord(correct.lower()) - (ord('a')+1)
+    question_dict['value'] = False
     for answer in answers:
         question_dict['answers'].append({
             'answer' : answer
