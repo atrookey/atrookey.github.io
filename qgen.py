@@ -6,6 +6,35 @@ DONE = 'done'
 
 questions_list = []
 
+class State(Enum):
+    QUESTION = 0
+    ANSWERS = 1
+    CORRECT = 2
+
+def new_question():
+    question = {'answers' : []}
+
+int state = 0;
+
+with open('questions.txt', 'r') as q:
+    question_dict = new_question()
+    question = False
+    for line in q:
+        if question:
+            question_dict['question'] = line
+            question = False
+        if 'ANSWER' in line:
+            questions_list.append(question_dict)
+            question_dict = new_question()
+            question = True
+        else:
+            question_dict['answers'].append({
+                'answer' : line
+            })
+
+
+
+
 def create_question(question, answers, correct):
     question_dict = {}
     question_dict['question'] = question
