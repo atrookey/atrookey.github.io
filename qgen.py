@@ -23,8 +23,8 @@ with open('questions.txt', 'r') as q:
     for l in q:
         line = l.rstrip()
         if state == State.CORRECT:
-            question_dict['correct'] = ord(line.lower()) - (ord('a')+1)
             question_dict = new_question()
+            question_dict['correct'] = ord(line.lower()) - (ord('a')+1)
             state = State.QUESTION
         elif state == State.QUESTION:
             question_dict['question'] = line
@@ -43,7 +43,6 @@ with open('questions.txt', 'r') as q:
                     '_id' : answer_id
                 })
                 answer_id+=1
-    questions_list.append(question_dict)
 
 with open('dumpquestions.json', 'w') as f:
     json.dump({ 'data' : questions_list[1:] }, f)
