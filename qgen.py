@@ -7,6 +7,7 @@ class State(Enum):
     QUESTION = 0
     ANSWERS = 1
     CORRECT = 2
+    IMAGE = 3
 
 def new_question():
     return {'answers' : []}
@@ -32,7 +33,7 @@ with open('questions.txt', 'r') as q:
             question_id += 1
             state = State.ANSWERS;
         elif state == State.ANSWERS:
-            if 'ANSWER' in line:
+            if 'STOP' in line:
                 state = State.CORRECT
                 answer_id = 0
                 questions_list.append(question_dict)

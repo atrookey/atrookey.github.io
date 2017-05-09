@@ -4,154 +4,154 @@ fluid behind the typmpanic membrane
 barotrauma
 cholesteatoma
 Meniere's disease
-ANSWER
+STOP
 C
 Upon doing otoscopy, a perforation in the lower left quadrant of the right eardrum is observed. In the referral to the doctor, which of the following is the BEST way to describe the findings?
 Anterior lower perforation
 Anteriorinferiorperforation
 Posterior inferior perforation
 Posterior lower perforation
-ANSWER
+STOP
 D
 A 67-year old patient/client has been referred by his physician for hearing instruments.  He reports recent significant changes in hearing and is upset about not hearing his family as well as he thinks he should.  What case history information would be MOST pertinent to this patient's concerns?
 history of noise exposure
 family history of hearing loss
 balance problems
 medication use
-ANSWER
+STOP
 D
 Which of the following would be the MOST likely cause of this audiometric configuration? <img src="img/Q4.png" alt="">
 acoustic trauma due to gunfire
 noise exposure in industrial setting
 barotrauma
 acoustic neuroma
-ANSWER
+STOP
 B
 Properly administered speech discrimination testing requires:
 white noise masking
 an evenly monitored presentation
 a taped presentation
 the use of the NU-6 list
-ANSWER
+STOP
 C
 A patient with a PTA of 60 dB, binaurally accompanied by a conductive component of 35 dB would be LEAST likely to exhibit which of the following?
 good speech discrimination
 MCL above 65 dB HTL
 the patient will speak loudly when unaided
 good tolerance to loud sounds
-ANSWER
+STOP
 A
 The primary function of the middle ear is to match the impedance of the outer ear to the inner ear by:
 increasing the pressure at the stapes footplate
 decreasing the pressure at the oval window
 equalizing the pressure at the stapes footplate
 increase the pressure on the long process of the malleous
-ANSWER
+STOP
 C
 The articulation index scale can be used for:
 an effective counseling tool
 measuringrecruitment
 estimating unaided and aided word recognition based on pure tone audiometry
 measuring functional gain for a hearing instrument set at MCL
-ANSWER
+STOP
 A
 Which of the following frequencies would be MOST affected by a head cold?
 250, 500
 1000, 2000
 4,000, 6000
 all will be affected equally
-ANSWER
+STOP
 D
 The patient/client has a prolapsed canal.  How BEST should the hearing health professional proceed with the hearing evaluation?
 request physician's recommendation
 utilize sound field testing
 proceed with TDH39 headphones
 proceed with insert headphones
-ANSWER
+STOP
 A
 Which of the following tests would best predict the signal-to-noise ratio necessary for a hearing impaired person to understand speech normally in noise?
 Quick SIN
 SRT
 OAE
 APHAB
-ANSWER
+STOP
 A
 Smaller ID (inside diameter) tubing will:
 move peak to lower frequencies
 increase effective gain
 increase height of original peak
 increase low frequency
-ANSWER
+STOP
 A
 One hearing instrument uses a size 10 battery and has a 0.25 mA current drain.  Another hearing instrument uses a size 13 battery and has a 1.8 mA current drain.  Which of the following statements is TRUE?
 the size 10 battery will last longer
 the size 13 battery will last longer
 both batteries should last the same length of time
 unable to determine which will last longer
-ANSWER
+STOP
 D
 A disadvantage of WDRC and DSP processing is patient complaints of hearing noises where there are no sounds. Which of the following is used to correct this problem?
 input compression
 output compression
 multiple microphones
 expansion
-ANSWER
+STOP
 C
 The articulation index puts the greatest value to speech intelligibility at which frequency?
 800 Hz
 1500 Hz
 2000 Hz
 4000 Hz
-ANSWER
+STOP
 C
 What would be the BEST way to prevent an intermittency in the hearing instrument from showing up in the delivery process?
 2 cc couplet N.A.L target matching
 real ear testing
 biological check of the instrument
 A.N.S.I test of the instruments
-ANSWER
+STOP
 B
 Which condition of the human ear has NO effect on real ear-probe tube measurements?
 length of canal
 stiffness of T.M.
 physical shape
 diameter of canal
-ANSWER
+STOP
 B
 The typical difference between real ear insertion gain and 2 cc coupler response is:
 REIG has more gain above 3000 Hz
 REIG is less due to insertion loss
 REIG will have less high frequency response with C.I.C.'s
 REIG has less gain at 500 Hz
-ANSWER
+STOP
 B
 The function of an acoustic coupler is:
 noise reduction
 retention and sealing
 reducing insertion loss
 acoustic transparency
-ANSWER
+STOP
 D
 Which of the following procedures would MOST likely be associated with fitting problems?
 Stapedectomy
 Fistula repair
 Myringotomy
 Mastoidectomy
-ANSWER
+STOP
 B
 When considering different digital hearing instruments, open platform technology is generally considered:
 more complicated to program
 software driven
 hardware based
 less flexible for programming
-ANSWER
+STOP
 C
 When troubleshooting a hearing instrument, you discover the electrical signal cannot be converted into acoustical energy. Which component is MOST likely defective?
 microphone
 amplifier
 receiver
 power source
-ANSWER
+STOP
 C
 In troubleshooting a high-end digital ITC hearing instrument, it is discovered that there is no gain
 An electrical noise and hissing can be heard when examining the hearing instrument.  What is MOST likely wrong with this hearing instrument?
@@ -159,24 +159,25 @@ receiver is not functioning
 vent is blocked
 microphone is not functioning
 receiver is plugged with wax
-ANSWER
+STOP
 A
 A C.I.C hearing instrument that has a lot of circuit noise but very little amplification would MOST likely have which of the following?
 plugged microphone
 plugged receiver
 faulty gain control
 not enough gain
-ANSWER
+STOP
 C
 In counseling a patient about the use and care of a hearing instrument, the patient should be told that the MOST common cause of hearing instrument failure is:
 wax in the ear canal
 moisture in the amplifier
 weak or dead battery
 patient misunderstanding
-ANSWER
+STOP
 C
 When discussing benefits of multi-channel digital hearing instruments which of the following does NOT apply?
 Increased capacity for aid to change with hearing changes
 Increased hearing benefit in noise
 Exact fit to the patient's hearing loss
 More "natural" sound reproduction
+STOP
