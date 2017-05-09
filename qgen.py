@@ -1,10 +1,7 @@
 #!/bin/python
 
 import json
-
-DONE = 'done'
-
-questions_list = []
+from enum import Enum
 
 class State(Enum):
     QUESTION = 0
@@ -12,54 +9,40 @@ class State(Enum):
     CORRECT = 2
 
 def new_question():
-    question = {'answers' : []}
+    return {'answers' : []}
 
-int state = 0;
+questions_list = []
+state = State.ANSWERS
+question_id = 0
+answer_id = 0
 
 with open('questions.txt', 'r') as q:
     question_dict = new_question()
     question = False
-    for line in q:
-        if question:
+    for l in q:
+        line = l.rstrip()
+        if state == State.QUESTION:
             question_dict['question'] = line
-            question = False
-        if 'ANSWER' in line:
-            questions_list.append(question_dict)
+            question_dict['value'] = False
+            question_dict['_id'] = question_id
+            question_id += 1
+            state = State.ANSWERS;
+        elif state == State.ANSWERS:
+            if 'ANSWER' in line:
+                state = State.CORRECT
+                answer_id = 0
+                questions_list.append(question_dict)
+            else:
+                question_dict['answers'].append({
+                    'answer' : line,
+                    '_id' : answer_id
+                })
+                answer_id+=1
+        elif state == State.CORRECT:
+            question_dict['correct'] = ord(line.lower()) - (ord('a')+1)
             question_dict = new_question()
-            question = True
-        else:
-            question_dict['answers'].append({
-                'answer' : line
-            })
-
-
-
-
-def create_question(question, answers, correct):
-    question_dict = {}
-    question_dict['question'] = question
-    question_dict['answers'] = []
-    question_dict['correct'] = ord(correct.lower()) - (ord('a')+1)
-    question_dict['value'] = False
-    for answer in answers:
-        question_dict['answers'].append({
-            'answer' : answer
-        })
-    return question_dict
-
-while (True):
-    question = input('question? ')
-    if question == DONE:
-        break
-    answers = []
-    while (True):
-        answer = input('answer? ')
-        if answer == DONE:
-            break
-        answers.append(answer)
-    correct = input('correct? ')
-    question_dict = create_question(question, answers, correct)
+            state = State.QUESTION
     questions_list.append(question_dict)
 
 with open('dumpquestions.json', 'w') as f:
-    json.dump(questions_list, f)
+    json.dump({ 'data' : questions_list[1:] }, f)
