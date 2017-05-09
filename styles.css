@@ -13,3 +13,7 @@ h1 {
   visibility: visible;
   height: auto;
 }
+
+#quizFooter {
+  margin-bottom: 20px;
+}
