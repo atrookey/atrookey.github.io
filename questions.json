@@ -2,32 +2,7 @@
   "data": [
     {
       "value": false,
-      "question": "If a patient has the following symptoms: aural fullness, tinnitus, fluctuating sensorineural hearing loss and intermittent vertigo, the MOST likely cause is:",
-      "_id": 0,
-      "answers": [
-        {
-          "answer": "fluid behind the typmpanic membrane",
-          "_id": 0
-        },
-        {
-          "answer": "barotrauma",
-          "_id": 1
-        },
-        {
-          "answer": "cholesteatoma",
-          "_id": 2
-        },
-        {
-          "answer": "Meniere's disease",
-          "_id": 3
-        }
-      ],
-      "correct": 1
-    },
-    {
-      "value": false,
       "question": "Upon doing otoscopy, a perforation in the lower left quadrant of the right eardrum is observed. In the referral to the doctor, which of the following is the BEST way to describe the findings?",
-      "_id": 1,
       "answers": [
         {
           "answer": "Anterior lower perforation",
@@ -46,12 +21,12 @@
           "_id": 3
         }
       ],
+      "_id": 1,
       "correct": 2
     },
     {
       "value": false,
       "question": "A 67-year old patient/client has been referred by his physician for hearing instruments.  He reports recent significant changes in hearing and is upset about not hearing his family as well as he thinks he should.  What case history information would be MOST pertinent to this patient's concerns?",
-      "_id": 2,
       "answers": [
         {
           "answer": "history of noise exposure",
@@ -70,12 +45,12 @@
           "_id": 3
         }
       ],
+      "_id": 2,
       "correct": 2
     },
     {
       "value": false,
       "question": "Properly administered speech discrimination testing requires:",
-      "_id": 4,
       "answers": [
         {
           "answer": "white noise masking",
@@ -94,12 +69,12 @@
           "_id": 3
         }
       ],
+      "_id": 4,
       "correct": 1
     },
     {
       "value": false,
       "question": "A patient with a PTA of 60 dB, binaurally accompanied by a conductive component of 35 dB would be LEAST likely to exhibit which of the following?",
-      "_id": 5,
       "answers": [
         {
           "answer": "good speech discrimination",
@@ -118,12 +93,12 @@
           "_id": 3
         }
       ],
+      "_id": 5,
       "correct": -1
     },
     {
       "value": false,
       "question": "The primary function of the middle ear is to match the impedance of the outer ear to the inner ear by:",
-      "_id": 6,
       "answers": [
         {
           "answer": "increasing the pressure at the stapes footplate",
@@ -142,12 +117,12 @@
           "_id": 3
         }
       ],
+      "_id": 6,
       "correct": 1
     },
     {
       "value": false,
       "question": "The articulation index scale can be used for:",
-      "_id": 7,
       "answers": [
         {
           "answer": "an effective counseling tool",
@@ -166,12 +141,12 @@
           "_id": 3
         }
       ],
+      "_id": 7,
       "correct": -1
     },
     {
       "value": false,
       "question": "Which of the following frequencies would be MOST affected by a head cold?",
-      "_id": 8,
       "answers": [
         {
           "answer": "250, 500",
@@ -190,12 +165,12 @@
           "_id": 3
         }
       ],
+      "_id": 8,
       "correct": 2
     },
     {
       "value": false,
       "question": "The patient/client has a prolapsed canal.  How BEST should the hearing health professional proceed with the hearing evaluation?",
-      "_id": 9,
       "answers": [
         {
           "answer": "request physician's recommendation",
@@ -214,12 +189,12 @@
           "_id": 3
         }
       ],
+      "_id": 9,
       "correct": -1
     },
     {
       "value": false,
       "question": "Which of the following tests would best predict the signal-to-noise ratio necessary for a hearing impaired person to understand speech normally in noise?",
-      "_id": 10,
       "answers": [
         {
           "answer": "Quick SIN",
@@ -238,12 +213,12 @@
           "_id": 3
         }
       ],
+      "_id": 10,
       "correct": -1
     },
     {
       "value": false,
       "question": "Smaller ID (inside diameter) tubing will:",
-      "_id": 11,
       "answers": [
         {
           "answer": "move peak to lower frequencies",
@@ -262,12 +237,12 @@
           "_id": 3
         }
       ],
+      "_id": 11,
       "correct": -1
     },
     {
       "value": false,
       "question": "One hearing instrument uses a size 10 battery and has a 0.25 mA current drain.  Another hearing instrument uses a size 13 battery and has a 1.8 mA current drain.  Which of the following statements is TRUE?",
-      "_id": 12,
       "answers": [
         {
           "answer": "the size 10 battery will last longer",
@@ -286,12 +261,12 @@
           "_id": 3
         }
       ],
+      "_id": 12,
       "correct": 2
     },
     {
       "value": false,
       "question": "A disadvantage of WDRC and DSP processing is patient complaints of hearing noises where there are no sounds. Which of the following is used to correct this problem?",
-      "_id": 13,
       "answers": [
         {
           "answer": "input compression",
@@ -310,12 +285,12 @@
           "_id": 3
         }
       ],
+      "_id": 13,
       "correct": 1
     },
     {
       "value": false,
       "question": "The articulation index puts the greatest value to speech intelligibility at which frequency?",
-      "_id": 14,
       "answers": [
         {
           "answer": "800 Hz",
@@ -334,12 +309,12 @@
           "_id": 3
         }
       ],
+      "_id": 14,
       "correct": 1
     },
     {
       "value": false,
       "question": "What would be the BEST way to prevent an intermittency in the hearing instrument from showing up in the delivery process?",
-      "_id": 15,
       "answers": [
         {
           "answer": "2 cc couplet N.A.L target matching",
@@ -358,12 +333,12 @@
           "_id": 3
         }
       ],
+      "_id": 15,
       "correct": 0
     },
     {
       "value": false,
       "question": "Which condition of the human ear has NO effect on real ear-probe tube measurements?",
-      "_id": 16,
       "answers": [
         {
           "answer": "length of canal",
@@ -382,12 +357,12 @@
           "_id": 3
         }
       ],
+      "_id": 16,
       "correct": 0
     },
     {
       "value": false,
       "question": "The typical difference between real ear insertion gain and 2 cc coupler response is:",
-      "_id": 17,
       "answers": [
         {
           "answer": "REIG has more gain above 3000 Hz",
@@ -406,12 +381,12 @@
           "_id": 3
         }
       ],
+      "_id": 17,
       "correct": 0
     },
     {
       "value": false,
       "question": "The function of an acoustic coupler is:",
-      "_id": 18,
       "answers": [
         {
           "answer": "noise reduction",
@@ -430,12 +405,12 @@
           "_id": 3
         }
       ],
+      "_id": 18,
       "correct": 2
     },
     {
       "value": false,
       "question": "Which of the following procedures would MOST likely be associated with fitting problems?",
-      "_id": 19,
       "answers": [
         {
           "answer": "Stapedectomy",
@@ -454,12 +429,12 @@
           "_id": 3
         }
       ],
+      "_id": 19,
       "correct": 0
     },
     {
       "value": false,
       "question": "When considering different digital hearing instruments, open platform technology is generally considered:",
-      "_id": 20,
       "answers": [
         {
           "answer": "more complicated to program",
@@ -478,12 +453,12 @@
           "_id": 3
         }
       ],
+      "_id": 20,
       "correct": 1
     },
     {
       "value": false,
       "question": "When troubleshooting a hearing instrument, you discover the electrical signal cannot be converted into acoustical energy. Which component is MOST likely defective?",
-      "_id": 21,
       "answers": [
         {
           "answer": "microphone",
@@ -502,12 +477,12 @@
           "_id": 3
         }
       ],
+      "_id": 21,
       "correct": 1
     },
     {
       "value": false,
       "question": "In troubleshooting a high-end digital ITC hearing instrument, it is discovered that there is no gain",
-      "_id": 22,
       "answers": [
         {
           "answer": "An electrical noise and hissing can be heard when examining the hearing instrument.  What is MOST likely wrong with this hearing instrument?",
@@ -530,12 +505,12 @@
           "_id": 4
         }
       ],
+      "_id": 22,
       "correct": -1
     },
     {
       "value": false,
       "question": "A C.I.C hearing instrument that has a lot of circuit noise but very little amplification would MOST likely have which of the following?",
-      "_id": 23,
       "answers": [
         {
           "answer": "plugged microphone",
@@ -554,12 +529,12 @@
           "_id": 3
         }
       ],
+      "_id": 23,
       "correct": 1
     },
     {
       "value": false,
       "question": "In counseling a patient about the use and care of a hearing instrument, the patient should be told that the MOST common cause of hearing instrument failure is:",
-      "_id": 24,
       "answers": [
         {
           "answer": "wax in the ear canal",
@@ -578,12 +553,12 @@
           "_id": 3
         }
       ],
+      "_id": 24,
       "correct": 1
     },
     {
       "value": false,
       "question": "When discussing benefits of multi-channel digital hearing instruments which of the following does NOT apply?",
-      "_id": 25,
       "answers": [
         {
           "answer": "Increased capacity for aid to change with hearing changes",
@@ -601,7 +576,8 @@
           "answer": "More \"natural\" sound reproduction",
           "_id": 3
         }
-      ]
+      ],
+      "_id": 25
     }
   ]
 }

@@ -12,7 +12,7 @@ def new_question():
     return {'answers' : []}
 
 questions_list = []
-state = State.ANSWERS
+state = State.CORRECT
 question_id = 0
 answer_id = 0
 
@@ -21,7 +21,11 @@ with open('questions.txt', 'r') as q:
     question = False
     for l in q:
         line = l.rstrip()
-        if state == State.QUESTION:
+        if state == State.CORRECT:
+            question_dict['correct'] = ord(line.lower()) - (ord('a')+1)
+            question_dict = new_question()
+            state = State.QUESTION
+        elif state == State.QUESTION:
             question_dict['question'] = line
             question_dict['value'] = False
             question_dict['_id'] = question_id
@@ -38,10 +42,6 @@ with open('questions.txt', 'r') as q:
                     '_id' : answer_id
                 })
                 answer_id+=1
-        elif state == State.CORRECT:
-            question_dict['correct'] = ord(line.lower()) - (ord('a')+1)
-            question_dict = new_question()
-            state = State.QUESTION
     questions_list.append(question_dict)
 
 with open('dumpquestions.json', 'w') as f:
