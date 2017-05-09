@@ -24,7 +24,7 @@ with open('questions.txt', 'r') as q:
         line = l.rstrip()
         if state == State.CORRECT:
             question_dict = new_question()
-            question_dict['correct'] = ord(line.lower()) - (ord('a')+1)
+            question_dict['correct'] = ord(line.lower()) - ord('a')
             state = State.QUESTION
         elif state == State.QUESTION:
             question_dict['question'] = line
